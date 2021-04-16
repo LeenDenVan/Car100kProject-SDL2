@@ -1,0 +1,13 @@
+﻿  BulletManager.cpp
+D:\visualstudio2019\source\repos\Car100kProject2\Car100kProject2\src\Objects\Bullet.h(28,2): warning C4091: “extern ”: 没有声明变量时忽略“BulletColors”的左侧
+D:\visualstudio2019\source\repos\Car100kProject2\Car100kProject2\src\Objects\Bullet.h(46,2): warning C4091: “extern ”: 没有声明变量时忽略“BulletTypes”的左侧
+D:\visualstudio2019\source\repos\Car100kProject2\Car100kProject2\src\Objects\Bullet.h(53,2): warning C4091: “extern ”: 没有声明变量时忽略“BulletBareiColors”的左侧
+D:\visualstudio2019\source\repos\Car100kProject2\Car100kProject2\src\Objects\Bullet.h(64,2): warning C4091: “extern ”: 没有声明变量时忽略“BulletHeartColors”的左侧
+D:\visualstudio2019\source\repos\Car100kProject2\Car100kProject2\src\Objects\Bullet.h(72,2): warning C4091: “extern ”: 没有声明变量时忽略“BulletSize”的左侧
+D:\visualstudio2019\source\repos\Car100kProject2\Car100kProject2\Global.h(68,22): warning C4091: “extern ”: 没有声明变量时忽略“STG_State”的左侧
+D:\visualstudio2019\source\repos\Car100kProject2\Car100kProject2\Global.h(69,33): warning C4091: “extern ”: 没有声明变量时忽略“SoundEffectResources”的左侧
+D:\visualstudio2019\source\repos\Car100kProject2\Car100kProject2\Global.h(70,27): warning C4091: “extern ”: 没有声明变量时忽略“MusicResources”的左侧
+D:\visualstudio2019\source\repos\Car100kProject2\Car100kProject2\Global.h(71,28): warning C4091: “extern ”: 没有声明变量时忽略“MainMenuOptions”的左侧
+D:\visualstudio2019\source\repos\Car100kProject2\Car100kProject2\src\Managers\BulletManager.cpp(38,9): warning C4101: “k”: 未引用的局部变量
+D:\visualstudio2019\source\repos\Car100kProject2\Car100kProject2\src\Managers\BulletManager.cpp(38,6): warning C4101: “i”: 未引用的局部变量
+  Car100kProject2.vcxproj -> D:\visualstudio2019\source\repos\Car100kProject2\x64\Debug\Car100kProject2.exe
