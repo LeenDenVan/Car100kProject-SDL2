@@ -5,14 +5,9 @@
 #include <SDL_image.h>
 #include <SDL_mixer.h>
 #include <SDL_ttf.h>
-#include <GL/glew.h>
-#include <SDL_opengl.h>
-#include <glut.h>
 #include <cstdio>
 #include <string>
-#include <cstdio>
 
-#include <Python.h>
 #include "src/define.h"
 #include "src/init.h"
 #include "src/MathHelper.h"
@@ -25,8 +20,6 @@ const int SHEIG = 960;
 const int SWID = 1280;
 
 extern MathHelper math;
-
-extern PyObject* pModule;
 
 extern SDL_Renderer* renderer;
 extern SDL_Window* window;

@@ -31,15 +31,8 @@ enum MainMenuOptions {
     MOps_Quit
 };
 
-
-bool initPython();
-PyObject* initScript(const char* scriptName);
-bool callFunctionWithNoArg(PyObject* scriptName, const char* function);
-bool closePython();
 bool init();
 void close();
 bool initGL();
-void printProgramLog(GLuint program);
-void printShaderLog(GLuint shader);
 
 #endif
